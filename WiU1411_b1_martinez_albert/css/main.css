@@ -87,7 +87,7 @@ td:first-child {
 }
 
 .main p {
-	width: 67.5%;
+	width: 65%;
 	float: left;
 	font-size: 1.4em;
 
@@ -114,7 +114,7 @@ figure img {
 
 a {
 	text-decoration: none;
-	font-size: 1.3em;
+	font-size: 1em;
 	color: #e53b0b;  /*changes color of the links*/
 }
 
